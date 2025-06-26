@@ -1,5 +1,5 @@
 [
-  { 
+  {
     "id": 1,
     "key": "about-sec-img",
     "img": "https://rowad.hossam.alyomhost.org/images/about.jpg"
@@ -95,5 +95,35 @@
     "id": 18,
     "key": "services-sec.support1",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser3.png"
+  },
+  {
+    "id": 19,
+    "key": "partner-1",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/1.svg"
+  },
+  {
+    "id": 20,
+    "key": "partner-2",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/2.svg"
+  },
+  {
+    "id": 21,
+    "key": "partner-3",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/3.svg"
+  },
+  {
+    "id": 22,
+    "key": "partner-4",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/4.svg"
+  },
+  {
+    "id": 23,
+    "key": "partner-5",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/5.svg"
+  },
+  {
+    "id": 24,
+    "key": "partner-6",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/6.svg"
   }
 ]
