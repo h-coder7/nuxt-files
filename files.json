@@ -90,5 +90,10 @@
     "id": 17,
     "key": "services-sec.support",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser3.png"
+  },
+  {
+    "id": 18,
+    "key": "services-sec.support",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser3.png"
   }
 ]
