@@ -17,5 +17,29 @@
     "key": "vision",
     "img": "https://rowad.hossam.alyomhost.org/images/vs3.jpg",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs3.svg"
-  } 
-] 
+  },
+  {
+    "key": "client-1",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/7.svg"
+  },
+  {
+    "key": "client-2",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/8.svg"
+  },
+  {
+    "key": "client-3",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/9.svg"
+  },
+  {
+    "key": "client-4",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/10.svg"
+  },
+  {
+    "key": "client-5",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/11.svg"
+  },
+  {
+    "key": "client-6",
+    "img": "https://rowad.hossam.alyomhost.org/images/partners/12.svg"
+  }
+]
