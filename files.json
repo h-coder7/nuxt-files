@@ -1,63 +1,77 @@
 [
   {
+    "id": 1,
     "key": "about-sec-img",
     "img": "https://rowad.hossam.alyomhost.org/images/about.jpg"
   },
   {
+    "id": 2,
     "key": "goals",
     "img": "https://rowad.hossam.alyomhost.org/images/vs1.jpg",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs1.svg"
   },
   {
+    "id": 3,
     "key": "mission",
     "img": "https://rowad.hossam.alyomhost.org/images/vs2.jpg",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs2.svg"
   },
   {
+    "id": 4,
     "key": "vision",
     "img": "https://rowad.hossam.alyomhost.org/images/vs3.jpg",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs3.svg"
   },
   {
+    "id": 5,
     "key": "client-1",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/7.svg"
   },
   {
+    "id": 6,
     "key": "client-2",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/8.svg"
   },
   {
+    "id": 7,
     "key": "client-3",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/9.svg"
   },
   {
+    "id": 8,
     "key": "client-4",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/10.svg"
   },
   {
+    "id": 9,
     "key": "client-5",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/11.svg"
   },
   {
+    "id": 10,
     "key": "client-6",
     "img": "https://rowad.hossam.alyomhost.org/images/partners/12.svg"
   },
   {
+    "id": 11,
     "key": "num-projects",
     "number": "+32",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/num1.svg"
   },
   {
+    "id": 12,
     "key": "num-partners",
     "number": "+1002",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/num2.svg"
   },
   {
+    "id": 13,
     "key": "num-employees",
     "number": "+105",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/num3.svg"
   },
   {
+    "id": 14,
     "key": "num-countries",
     "number": "+32",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/num4.svg"
