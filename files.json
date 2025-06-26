@@ -75,5 +75,20 @@
     "key": "num-countries",
     "number": "+32",
     "icon": "https://rowad.hossam.alyomhost.org/images/icons/num4.svg"
+  },
+  {
+    "id": 15,
+    "key": "services-sec.consulting",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser1.png"
+  },
+  {
+    "id": 16,
+    "key": "services-sec.manpower",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser2.png"
+  },
+  {
+    "id": 17,
+    "key": "services-sec.support",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/ser3.png"
   }
 ]
