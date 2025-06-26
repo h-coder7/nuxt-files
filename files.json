@@ -45,21 +45,21 @@
   {
     "key": "num-projects",
     "number": "+32",
-    "icon": "https://yourdomain.com/images/icons/num1.svg"
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/num1.svg"
   },
   {
     "key": "num-partners",
     "number": "+1002",
-    "icon": "https://yourdomain.com/images/icons/num2.svg"
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/num2.svg"
   },
   {
     "key": "num-employees",
     "number": "+105",
-    "icon": "https://yourdomain.com/images/icons/num3.svg"
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/num3.svg"
   },
   {
     "key": "num-countries",
     "number": "+32",
-    "icon": "https://yourdomain.com/images/icons/num4.svg"
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/num4.svg"
   }
 ]
