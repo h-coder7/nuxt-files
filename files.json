@@ -1,0 +1,17 @@
+[
+  {
+    "key": "goals",
+    "img": "https://rowad.hossam.alyomhost.org/images/vs1.jpg",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs1.svg"
+  },
+  {
+    "key": "mission",
+    "img": "https://rowad.hossam.alyomhost.org/images/vs2.jpg",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs2.svg"
+  },
+  {
+    "key": "vision",
+    "img": "https://rowad.hossam.alyomhost.org/images/vs3.jpg",
+    "icon": "https://rowad.hossam.alyomhost.org/images/icons/vs3.svg"
+  }
+]
